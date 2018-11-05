@@ -123,6 +123,8 @@ When done you can open `http://localhost:8020` and see the `release` build in ac
 Note that in the default config we overwrote the `public/js/main.js` created by the `watch`. You can also configure a different path to use for release builds but writing the output to the same file means we do not have to change the `index.html` and test everything as is.
 
 
+# NOTES
+
 ## shadow-cljs is much easier to get started with ClojureScript
 
 ### Stuff that is needed to make this work
